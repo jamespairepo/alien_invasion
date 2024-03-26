@@ -1,2 +1,1 @@
-# alien_invasion
-Atari Style Game
+# alien_invasion_pcc
